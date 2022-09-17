@@ -13,6 +13,8 @@ JWT_COOKIE_EXPIRES_IN= Number of days to expire(example 90)
 
 Sendgrid Email Credentials :  EMAIL_FROM, SENDGRID_USERNAME, SENDGRID_PASSWORD
 
+Stripe Credentials : STRIPE_SECRET_KEY, STRIPE_PRODUCT
+
 In the project directory, you can run:
 
 ### `npm run start`
